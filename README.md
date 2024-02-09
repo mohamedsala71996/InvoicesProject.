@@ -28,7 +28,7 @@ This Laravel project is designed for debt collection companies and includes vari
 - **Notifications:** Utilize Laravel's notification system for informing users about events.
 
 - **Statistical Dashboard:** A comprehensive dashboard providing statistical insights.
-- - **API Authentication with Laravel Passport:** Secure your APIs with Laravel Passport for token-based authentication.
+- **API Authentication with Laravel Passport:** Secure your APIs with Laravel Passport for token-based authentication.
 
-- 
+  
 
